@@ -7,7 +7,7 @@ This repository consists of multiple Python scripts, which:
 
 ## Oh, by the way...
 
-- This work has been produced in collaboration with [@Sara](https://www.linkedin.com/in/sara-masarone) 👩
+- This work has been produced in collaboration with [@Lorenzo](https://www.linkedin.com/in/lorenzo-sani/) 👨🏼‍💻
 
 - The code has initially been produced as part as an attempt to the global [Neureka Challenge](https://neureka-challenge.com/). 🧠
 
